@@ -58,9 +58,9 @@ Model Test Accuracy
 CNN 99.05%
 
 Adversarial Attacks
-
-Attack 
+ 
 FGSM     epsilon=0.15  Fooling Rate=60%
+
 PGD      epsilon=0.15  alpha=0.01875  steps=20  Fooling Rate=100%
 
 ## Requirements
