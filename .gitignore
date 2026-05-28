@@ -1,0 +1,7 @@
+venv/
+.ipynb_checkpoints/
+mnist_data/
+__pycache__/
+fashion_mnist_data/
+images/
+model/
