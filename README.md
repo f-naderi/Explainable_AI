@@ -65,11 +65,11 @@ PGD      epsilon=0.15  alpha=0.01875  steps=20  Fooling Rate=100%
 
 ## Requirements
 
-· Python 3.10+
-· TensorFlow 
-· OpenCV
-· Matplotlib
-· NumPy
+* Python 3.10+
+* TensorFlow 
+* OpenCV
+* Matplotlib
+* NumPy
 
 ## References
 
