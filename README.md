@@ -74,9 +74,9 @@ PGD      epsilon=0.15  alpha=0.01875  steps=20  Fooling Rate=100%
 
 ## References
 
-- MNIST Dataset: LeCun et al. (1998)
-- Grad-CAM: Selvaraju et al. (2017)
-- FGSM Attack: Goodfellow et al. (2015)
-- PGD Attack: Madry et al. (2018)
+- LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11), 2278-2324.
+- Selvaraju, R. R., Cogswell, M., Das, A., Vedantam, R., Parikh, D., & Batra, D. (2017). Grad-cam: Visual explanations from deep networks via gradient-based localization. In Proceedings of the IEEE international conference on computer vision (pp. 618-626).
+- Goodfellow, I. J., Shlens, J., & Szegedy, C. (2014). Explaining and harnessing adversarial examples. arXiv preprint arXiv:1412.6572.
+- Madry, A., Makelov, A., Schmidt, L., Tsipras, D., & Vladu, A. (2017). Towards deep learning models resistant to adversarial attacks. arXiv preprint arXiv:1706.06083.
 
 ```
